@@ -19,7 +19,7 @@ The following are project targets or planning assumptions unless backed by indep
 - USD 400,000 funding model,
 - 12-month delivery schedule,
 - 60 FPS target,
-- eightteen-person team,
+- 18-person team,
 - Unreal Engine 5 stack,
 - exact memory/performance budgets,
 - accessibility implementation scope,
